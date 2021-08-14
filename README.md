@@ -4,5 +4,13 @@ This repository contains supporting materials for reproduction of the experiment
 
 This repository contains the following items:
 
-* README.md
-* ...
+* `README.md`
+* `requirements.txt` -- Python library dependencies.
+* `data/hedging_dataset.csv` -- Anonymized hedging questionaire results CSV file. 
+* `hedging-analysis.ipynb`
+
+
+## Instructions
+
+1. Install Python dependencies using `pip`: `pip install -r requirements.txt`
+2. Using your preferred Juypter Notebook client run the notebook `hedging-analysis.ipynb`.
